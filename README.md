@@ -1,3 +1,3 @@
 🌐 Web developer
 
- I work with PHP(Laravel) / Nodejs(Nestjs) / Python(Flask) / React(Next.js) / Vue.js(Nuxt.js)
+ I work with PHP(Laravel) / Nodejs(Nestjs) / TypeScript / Python(Flask) / React(Next.js) / Vue.js(Nuxt.js)
